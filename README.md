@@ -19,7 +19,7 @@ This repository contains the experimental and numerical study of **fluidization 
    Folder          | Description                                  |
  |-----------------|----------------------------------------------|
  | `/presentation` | Slides (PDF) and figures from the TIPE.       |
- | `/doc`         | Report (in english)                           |
+ | `/doc`         | Report (**in english**)                           |
  | `/src`          | Python scripts for modeling/analysis.         |
  | `/data`         | Experimental data                             |
 
@@ -34,11 +34,11 @@ This repository contains the experimental and numerical study of **fluidization 
 1. **View the presentation**:
    - (presentation/TIPE_Fluidization.pdf)
 2. **Run the model**:
-   - See `/src/dem_model.py` (requires Python 3.8+ and `numpy`, `matplotlib`).
+   - See `/src/DEM_fluidisation.py` (requires Python 3.8+ and `numpy`, `matplotlib`).
 3. **Reproduce experiments**:
-   - Data and protocols are in `/data` and `/docs`.
+   - Experimental data and a report are in `/data` and `/doc`.
 
 ---
-## References
+## Main References
 - CNRS, *Les Milieux Granulaires: entre fluide et solide* (2011).
 - Ergun, S. (1952). *Fluid flow through packed columns*.
