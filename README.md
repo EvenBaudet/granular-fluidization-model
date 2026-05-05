@@ -19,7 +19,7 @@ This repository contains the experimental and numerical study of **fluidization 
    Folder          | Description                                  |
  |-----------------|----------------------------------------------|
  | `/presentation` | Slides (PDF) and figures from the TIPE.       |
- | `/docs`         | Report (in english)                           |
+ | `/doc`         | Report (in english)                           |
  | `/src`          | Python scripts for modeling/analysis.         |
  | `/data`         | Experimental data                             |
 
