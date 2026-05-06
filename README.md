@@ -11,15 +11,14 @@ This repository contains the experimental and numerical study of **fluidization 
 - **Methods**:
   - Experimental: Pressure drop measurements, fluidization velocity tests.
   - Numerical: DEM with Verlet integration, collision detection, and Ergun law for fluid-particle interactions.
-- **Materials**: Chia seeds, quinoa, sand, lentils.
+- **Materials**: Chia seeds, salt, quinoa, sand, lentils.
 
 ---
 
 ## Repository Structure
    Folder          | Description                                  |
  |-----------------|----------------------------------------------|
- | `/presentation` | Slides (PDF) and figures from the TIPE.       |
- | `/doc`         | Report (**in english**)                           |
+ | `/docs`         | Report (**in english**)                           |
  | `/src`          | Python scripts for modeling/analysis.         |
  | `/data`         | Experimental data                             |
 
@@ -31,12 +30,12 @@ This repository contains the experimental and numerical study of **fluidization 
 
 ---
 ## How to Use
-1. **View the presentation**:
-   - (presentation/TIPE_Fluidization.pdf)
+1. **View the report (in English)**:
+   - (docs/granular_fluidisation_report.pdf)
 2. **Run the model**:
    - See `/src/DEM_fluidisation.py` (requires Python 3.8+ and `numpy`, `matplotlib`).
 3. **Reproduce experiments**:
-   - Experimental data and a report are in `/data` and `/doc`.
+   - Experimental data in `/data`.
 
 ---
 ## Main References
