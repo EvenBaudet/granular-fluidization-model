@@ -1,3 +1,5 @@
+This directory contains the implementation of the Discrete Element Method (DEM) simulation.
+
 ### Main File
 The core of the simulation is contained in:
 *   **`DEM_fluidisation.py`**: This is the **main execution file**. It handles the physical integration, collision detection (grid-based), and the interactive dual-window interface (Simulation + Parameter Control).
