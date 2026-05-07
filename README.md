@@ -31,10 +31,10 @@ This repository contains the experimental and numerical study of **fluidization 
 ---
 ## How to Use
 1. **View the report (in English)**:
-   - (docs/granular_fluidisation_report.pdf)
+   - (docs/granular_fluidisation_report_eng.pdf)
 2. **Run the model**:
    - See `/src/DEM_fluidisation.py` (requires Python 3.8+ and `numpy`, `matplotlib`).
-3. **Reproduce experiments**:
+3. **View experiments**:
    - Experimental data in `/data`.
 
 ---
