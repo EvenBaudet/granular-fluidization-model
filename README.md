@@ -18,8 +18,8 @@ This repository contains the experimental and numerical study of **fluidization 
 ## Repository Structure
    Folder          | Description                                  |
  |-----------------|----------------------------------------------|
- | `/docs`         | Report (**in english**)                           |
- | `/src`          | Python scripts for modeling/analysis.         |
+ | `/docs`         | Report (**in english and french**), Presentation (**in french**)     |
+ | `/src`          | Python scripts for modeling/analysis (**comments in french**)         |
  | `/data`         | Experimental data                             |
 
 ---
