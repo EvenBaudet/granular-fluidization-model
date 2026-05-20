@@ -4,7 +4,9 @@
 
 This repository contains the experimental and numerical study of **fluidization in granular media**, focusing on validating Darcy and Ergun laws and developing a discrete element model (DEM) to simulate fluidization thresholds.
 
-![Fluidization simulation interface](data/Fluidisation_threshold.gif)
+**Video of the Interface:**
+
+![Fluidization simulation interface](data/Fluidisation_Threshold.gif)
 
 ---
 
@@ -41,5 +43,8 @@ This repository contains the experimental and numerical study of **fluidization 
 
 ---
 ## Main References
-- CNRS, *Les Milieux Granulaires: entre fluide et solide* (2011).
-- Ergun, S. (1952). *Fluid flow through packed columns*.
+- **[1]**: Julien BAGLIO, Rapport de TP Lit Fluidisé, février 2007..
+- **[2]**: Bruno ANDREOTTI, Yoël FORTERRE, Olivier POULIQUEN: Les milieux granulaires - Entre fluide et solide, Février 2011, pages 303-329
+- **[3]**: Khalil SHAKOURZADEH, Article issu de Techniques de l'ingénieur: Techniques de Fluidisation, Mars 2002 
+- **[4]**: Gérard ANTONINI, Article issu de Techniques de l'ingénieur: Lits fluidisés - Caractéristiques générales et applications, Octobre 2007
+- **[5]**: Chaim GUTFINGER, Nesim ABUAF, Advances in Heat Transfer Vol.10: Heat Transfer in Fluidised Beds, 1974, pages 167-174 
