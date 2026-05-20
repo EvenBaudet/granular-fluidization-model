@@ -4,6 +4,8 @@
 
 This repository contains the experimental and numerical study of **fluidization in granular media**, focusing on validating Darcy and Ergun laws and developing a discrete element model (DEM) to simulate fluidization thresholds.
 
+![Fluidization simulation interface](data/Fluidisation_threshold.gif)
+
 ---
 
 ## Project Overview
