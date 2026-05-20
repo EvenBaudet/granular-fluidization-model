@@ -43,7 +43,7 @@ This repository contains the experimental and numerical study of **fluidization 
 
 ---
 ## Main References
-- **[1]**: Julien BAGLIO, Rapport de TP Lit Fluidisé, février 2007..
+- **[1]**: Julien BAGLIO, Rapport de TP Lit Fluidisé, février 2007
 - **[2]**: Bruno ANDREOTTI, Yoël FORTERRE, Olivier POULIQUEN: Les milieux granulaires - Entre fluide et solide, Février 2011, pages 303-329
 - **[3]**: Khalil SHAKOURZADEH, Article issu de Techniques de l'ingénieur: Techniques de Fluidisation, Mars 2002 
 - **[4]**: Gérard ANTONINI, Article issu de Techniques de l'ingénieur: Lits fluidisés - Caractéristiques générales et applications, Octobre 2007
