@@ -11,11 +11,10 @@ This repository contains the experimental and numerical study of **fluidization 
 ---
 
 ## Project Overview
-- **Goal**: Observe fluidization phenomena, validate fluidization laws, and develop a numerical model.
+- **Goal**: Observe fluidization phenomena, validate fluidization laws, develop and validate a numerical model.
 - **Methods**:
   - Experimental: Pressure drop measurements, fluidization velocity tests.
   - Numerical: DEM with Verlet integration, collision detection, and Ergun law for fluid-particle interactions.
-- **Materials**: Chia seeds, salt, quinoa, sand, lentils.
 
 ---
 
